@@ -27,9 +27,11 @@ shapes the outcome.
 
 ## 3. Data fetch
 
-None — a deliberate, disclosed exception, the same category as this portfolio's other theory-forward
-builds (Project #23B/#23C/#23D/#23E). The subdivided trait-group model and its Price decomposition are the
-object of study.
+None required: the real deliverable here is an exact algebraic decomposition (the Price equation's
+within-group/between-group split) confirmed against simulated data with a known cost, benefit, and group
+structure — the kind of controlled ground truth no real dataset of group-selection outcomes could supply,
+since the true individual cost and group benefit driving a real trait's spread are rarely directly
+measurable.
 
 ## 4. Data describe
 
